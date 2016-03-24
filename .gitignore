@@ -1,0 +1,7 @@
+*.cbp
+*.depend
+*.layout
+huawei/bin/*
+huawei/obj/*
+huawei/case0/*
+huawei/case1/*
